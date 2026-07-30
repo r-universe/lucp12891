@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "MosaiClusteR"]
+	path = MosaiClusteR
+	url = https://github.com/lucp12891/mosaicluster
